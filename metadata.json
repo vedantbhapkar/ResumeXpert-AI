@@ -1,0 +1,5 @@
+{
+  "name": "ResumeXpert AI – Smart Career Accelerator",
+  "description": "AI-powered resume analysis, ATS optimization, and personalized voice-based mock interview platform.",
+  "requestFramePermissions": ["microphone"]
+}
